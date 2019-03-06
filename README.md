@@ -37,7 +37,7 @@
 
 ``` bash
 # clone the repo into your disk.
-$ git clone https://github.com/Ongve/Meituan-web
+$ git clone https://github.com/Ongve/Express-MongoDB_Demo
 
 # install dependencies
 $ npm install
