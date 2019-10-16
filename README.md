@@ -17,7 +17,7 @@
 
 登录验证、封装DB库、用户登录状态权限管理、后台商品列表的增/删/改/查
 
-## 在线预览（点击图片可查看大图）：
+## 预览（点击图片可查看大图）：
 
 ### 后台登录页
 
@@ -37,7 +37,7 @@
 
 ``` bash
 # clone the repo into your disk.
-$ git clone https://github.com/Ongve/Express-MongoDB_Demo
+$ git clone https://github.com/xhwgood/Express-MongoDB_Demo
 
 # install dependencies
 $ npm install
